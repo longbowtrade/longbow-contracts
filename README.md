@@ -1,5 +1,8 @@
 # 🏹 Longbow Contracts
 
+[![tests](https://github.com/longbowtrade/longbow-contracts/actions/workflows/test.yml/badge.svg)](https://github.com/longbowtrade/longbow-contracts/actions/workflows/test.yml)
+[![license: MIT](https://img.shields.io/badge/license-MIT-CCFF00.svg)](LICENSE)
+
 **`LongbowExecutor.sol` — a ~200-line permissionless executor that adds limit orders & DCA to Uniswap V2 for tokenized stocks on Robinhood Chain.**
 
 *Aim. Set. Hit.*
